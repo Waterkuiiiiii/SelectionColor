@@ -1,4 +1,4 @@
-html ::selection{
-    background-color: #4f4f4f;
-    color: #fcfcfc;
+html ::selection {
+    background-color: #4f4f4f !important;
+    color: #fcfcfc !important;
 }
