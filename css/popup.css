@@ -1,0 +1,11 @@
+body {
+    background-color: #1e1e1e;
+    color: slategray;
+    font-family: cursive;
+    font-style: normal;
+}
+
+::selection {
+    background-color: #4f4f4f;
+    color: #fcfcfc;
+}
